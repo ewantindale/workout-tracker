@@ -1,6 +1,6 @@
 # Workout Tracker
 
-A React Native app to guide the user through the Push Pull Legs exercise program and help them keep track of their workouts and progress over time
+This app guides the user through the Push Pull Legs exercise program and helps them to keep track of their workouts and progress over time.
 
 ## Built With
 * [React Native](https://reactnative.dev/)
