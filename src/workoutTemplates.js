@@ -19,14 +19,11 @@ export const getNewWorkingWeights = (workout, workingWeights) => {
             workingWeights[convertNameToVariableName(exercise.name)] = exercise.weight
         }
     }
-    console.log('getNewWorkingWeights returning')
-    console.log(workingWeights)
     return workingWeights
 }
 
 // TODO: Sort out this mess of a function
 export const workoutTemplates = (day, workingWeights) => {
-    console.log('workoutTemplates was called with the parameters day: ' + day + ' and workingWeights: ' + workingWeights)
     
     if(day === 0){ // PUSH DAY (A)
         return {

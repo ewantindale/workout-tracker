@@ -216,7 +216,6 @@ const userInitialState = {
 export const user = (state = userInitialState, action) => {
     switch (action.type){
         case STARTING_WEIGHTS_SET:
-            console.log('onboarding completed!!')
             return {
                 ...state,
                 onboarding_completed: true

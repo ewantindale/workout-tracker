@@ -21,7 +21,6 @@ class WorkoutListScreen extends Component {
     }
 
     componentDidMount(){
-
         this.props.navigation.setOptions({ 
             headerRight: () => (
                 <View style={{ flexDirection: 'row' }}>

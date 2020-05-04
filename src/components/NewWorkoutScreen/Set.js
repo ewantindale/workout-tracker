@@ -18,7 +18,6 @@ class Set extends Component {
 
     updateSet = () => {
         // update the redux store
-        console.log('SET COMPONENT: Updating set ' + this.props.index + ' of exercise ' + this.props.exercise_index + ' with reps: ' + this.state.reps)
         this.props.dispatch(updateSet(parseInt(this.state.reps), this.props.index, this.props.exercise_index))
         this.props.dispatch(messageUpdate("Good job! Rest 3-5 mins then perform your next set."))
         this.props.dispatch(timerStart())
