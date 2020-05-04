@@ -4,7 +4,8 @@ A React Native app to guide the user through the Push Pull Legs exercise program
 
 ## Screenshots
 
-<img src="https://i.imgur.com/UTYRAL5.png" alt="alt text" width="50%" height="50%">
-<img src="https://i.imgur.com/Nb4Nncy.png" alt="alt text" width="50%" height="50%">
-<img src="https://i.imgur.com/HwsKJd0.png" alt="alt text" width="50%" height="50%">
-<img src="https://i.imgur.com/EjPL1M0.png" alt="alt text" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/ewantindale/workout-tracker/master/screenshots/Screenshot_1588576564.png" alt="alt text" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/ewantindale/workout-tracker/master/screenshots/Screenshot_1588506436.png" alt="alt text" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/ewantindale/workout-tracker/master/screenshots/Screenshot_1588506458.png" alt="alt text" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/ewantindale/workout-tracker/master/screenshots/Screenshot_1588506609.png" alt="alt text" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/ewantindale/workout-tracker/master/screenshots/Screenshot_1588506549.png" alt="alt text" width="40%" height="40%">
