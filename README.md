@@ -2,6 +2,8 @@
 
 This app guides the user through the Push Pull Legs exercise program and helps them to keep track of their workouts and progress over time.
 
+This app uses local storage for the user's data. I built another version of this app which uses Google SignIn and Cloud Firebase to store the user's data in the cloud while still allowing full offline access through Firestore's offline data persistance. You can check that out [here](https://github.com/ewantindale/workout-tracker-firebase)
+
 ## Built With
 * [React Native](https://reactnative.dev/)
 * [Redux](https://redux.js.org/)
